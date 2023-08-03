@@ -1,0 +1,14 @@
+.btn button{
+    background-color: #6278F7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: 'Monserrate',sans-serif;
+    padding: 24px 32px;
+    border: none;
+    color: #ffffff;
+    margin: 32px 0;
+    cursor: pointer;
+    display: flex;
+    box-shadow: 0px 5px 5px rgb(0, 0, 0);
+    font-size: 16px;
+}
